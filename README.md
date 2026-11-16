@@ -1,5 +1,15 @@
 # Bom Currículo - ATS Resume Builder
 
+> Este é o meu fork do projeto Bom Currículo (open source). O repositório original saiu do ar, então deixei aqui uma cópia do histórico com as minhas contribuições.
+>
+> O que eu fiz no projeto:
+> - Tela de confirmação dos dados antes de gerar o currículo, em React e TypeScript (#124, #247)
+> - Configuração de testes do frontend com Vitest e Testing Library (#141)
+> - Bot em Python que recebe CV, LinkedIn, GitHub e habilidades pra gerar o currículo com IA (#144) e CI dos testes do bot (#145)
+> - Testes dos endpoints da API (#183)
+>
+> Meus commits estão nas branches `upstream-backup` e `backup-prs-antigos`.
+
 https://bomcurriculo.tech
 
 ## UNDER CONSTRUCTION
